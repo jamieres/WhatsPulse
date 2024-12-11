@@ -76,7 +76,7 @@ WhatsPulse es una herramienta automatizada diseñada para enviar mensajes person
 
 ** 4. Configuración del Script
 	* Lista de destinatarios:
-		El script permite incluir una lista de números telefónicos en formato internacional (ejemplo: 5491131491168).
+		El script permite incluir una lista de números telefónicos en formato internacional.
 		Ejemplo dentro del script:
 			const numbers = ['549XXXXXXXXXX', '549XXXXXXXXXX'];
 
