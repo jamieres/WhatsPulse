@@ -4,7 +4,7 @@ WhatsPulse es una herramienta automatizada diseñada para enviar mensajes person
 ## Funcionalidades
 ** 1. Envío de Mensajes a WhatsApp Web
 	* Capacidad para enviar mensajes a contactos de WhatsApp Web.
-	* El mensaje se envía al número especificado en formato internacional (+54XXXXXXXXXX).
+ 	* El mensaje se envía al número especificado en formato internacional (+54XXXXXXXXXX).
 	* Confirmación visual en la consola de que el mensaje fue enviado.
 	* Persistencia de sesión a través del almacenamiento de datos persistentes del navegador, incluyendo cookies, almacenamiento local y caché (userDataDir). Evita el escaneo del QR en cada sesión.
 
