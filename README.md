@@ -58,7 +58,7 @@ WhatsPulse es una herramienta automatizada diseñada para enviar mensajes person
 	* Las pruebas se realizaron enviando secuencialmente mensajes a ocho (8) números sin problemas. De todos modos, trata de no abusar de los envíos para evitar baneo. 
 	
 
-## Requerimientos Técnicos
+## Requerimientos
 ** 1. Sistema Operativo
 	* Windows: La implementación actual está diseñada para ser ejecutada en este sistema.
 
